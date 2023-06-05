@@ -1,0 +1,11 @@
+
+.arrayContainer{
+    margin-top: 1rem;
+}
+
+.arrayBar{
+    display: inline-block;
+    margin: 0 3px;
+    width: 5px;
+    background-color: rgb(129, 149, 236);
+}
